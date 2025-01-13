@@ -3,7 +3,7 @@ I am an Analyst located in the Denver area, with a width breadth of experiencing
 "gut feeling". Combining the industry knowledge with accurate data-driven insights the company has seen continued revenue growth of 20% for 3 years now. I am the only analyst the company employs full-time so I handle any and all requests that require a techincal understanding which enables me to continue learning and growing in my skill set. Using Power BI, SQL, Python, UI Path, and Excel to help solve our company's problems.
 
 ## Table of Contents
-- [How to Create Your Profile?](#how-to-create-your-profile)
+- [How to Create Your Profile?](#high-temp-bearings-inc-sales-analysis)
 - [How to Customize Markdown files?](#how-to-customize-markdown-files)
 - [How to Create New Repository?](#how-to-create-new-repository)
 
