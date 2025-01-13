@@ -5,4 +5,5 @@ This repository will hold my data analytics projects.
 This analysis explores sales, quote, and abandonded cart data to attempt to find product categories with untapped demand from their e-commerce store. The dataset has been randomized and does not reflect real world information for the company. The dataset is pulled from their SQL Server database, and randomized within Excel.
 The main focus is to identify product groups that may not be achieving sales despite strong interest from customers.
 
-# Marketing Campaign Correlation & Regression Analysis
+# RFM Analysis for Customer Segmentation
+For this project, I have conducted RFM analysis to help segment our customer base. This analysis will allow us to serve our customers more effectively and thus have a roadmap for increasing revenue.
